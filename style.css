@@ -1,0 +1,262 @@
+
+body{
+    background-image:url(Assets/22.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+input{
+    border-color: rgb(163, 16, 121);
+    border: 3px solid rgb(163, 16, 121);
+    border-collapse: collapse;
+    height: 26px;
+}
+textarea{
+    border-color: rgb(163, 16, 121);
+    border: 3px solid rgb(163, 16, 121);
+    border-collapse: collapse;
+}
+.button{
+    height: 26px; 
+    display: flex;
+    justify-content: center;
+    
+}
+.button1{
+    border: 3px solid rgb(163, 16, 121);
+    background-color: blue;
+}
+.button1:hover{
+    background-color: red;
+}
+.button2{
+    border: 3px solid rgb(163, 16, 121);
+    background-color: red;
+}
+.button2:hover{
+    background-color: rgb(21, 0, 255);
+}
+input:active{
+    background-color:#e3d0ff;
+}
+
+@media (min-width:375px) and (max-width:600px){
+    body{
+        background-image:url(Assets/bg\(og\).avif);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    h3{
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+    }
+    .form{
+        display: flex;
+        justify-content: center;
+        padding-top: 5%;
+    }
+    input{
+        border-color: rgb(163, 16, 121);
+        border: 3px solid rgb(163, 16, 121);
+        border-collapse: collapse;
+        height: 26px;
+    }
+    textarea{
+        border-color: rgb(163, 16, 121);
+        border: 3px solid rgb(163, 16, 121);
+        border-collapse: collapse;
+    }
+    .button{
+        height: 26px; 
+        display: flex;
+        justify-content: center;
+        
+    }
+    .button1{
+        border: 3px solid rgb(163, 16, 121);
+        background-color: blue;
+    }
+    .button1:hover{
+        background-color: red;
+    }
+    .button2{
+        border: 3px solid rgb(163, 16, 121);
+        background-color: red;
+    }
+    .button2:hover{
+        background-color: rgb(21, 0, 255);
+    }
+    input:active{
+        background-color:#e3d0ff;
+    }
+    
+}
+ @media (min-width:600px) and (max-width:768px){
+    body{
+        background-image:url(Assets/bg\(og\).avif);
+        background-size:cover;
+        background-repeat: no-repeat;
+    }
+    h3{
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+    }
+    .form{
+        display: flex;
+        justify-content: center;
+        padding-top: 5%;
+    }
+    input{
+        border-color: rgb(163, 16, 121);
+        border: 3px solid rgb(163, 16, 121);
+        border-collapse: collapse;
+        height: 26px;
+    }
+    textarea{
+        border-color: rgb(163, 16, 121);
+        border: 3px solid rgb(163, 16, 121);
+        border-collapse: collapse;
+    }
+    .button{
+        height: 26px; 
+        display: flex;
+        justify-content: center;
+        
+    }
+    .button1{
+        border: 3px solid rgb(163, 16, 121);
+        background-color: blue;
+    }
+    .button1:hover{
+        background-color: red;
+    }
+    .button2{
+        border: 3px solid rgb(163, 16, 121);
+        background-color: red;
+    }
+    .button2:hover{
+        background-color: rgb(21, 0, 255);
+    }
+    input:active{
+        background-color:#e3d0ff;
+    }
+    
+}
+@media (min-width:768px) and (max-width:1200px){
+    body{
+        background-image:url(Assets/bg\(og\).avif);
+        background-size:cover;
+        background-repeat: no-repeat;
+    }
+    h3{
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+    }
+    .form{
+        display: flex;
+        justify-content: center;
+        padding-top: 5%;
+    }
+    input{
+        border-color: rgb(163, 16, 121);
+        border: 3px solid rgb(163, 16, 121);
+        border-collapse: collapse;
+        height: 26px;
+    }
+    textarea{
+        border-color: rgb(163, 16, 121);
+        border: 3px solid rgb(163, 16, 121);
+        border-collapse: collapse;
+    }
+    .button{
+        height: 26px; 
+        display: flex;
+        justify-content: center;
+        
+    }
+    .button1{
+        border: 3px solid rgb(163, 16, 121);
+        background-color: blue;
+    }
+    .button1:hover{
+        background-color: red;
+    }
+    .button2{
+        border: 3px solid rgb(163, 16, 121);
+        background-color: red;
+    }
+    .button2:hover{
+        background-color: rgb(21, 0, 255);
+    }
+    input:active{
+        background-color:#e3d0ff;
+    }
+    
+}
+@media (min-width:1200px) and (max-width:1400px){
+    body{
+        background-image:url(Assets/bg\(og\).avif);
+        background-size:cover;
+        background-repeat: no-repeat;
+    }
+    h3{
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+    }
+    .form{
+        display: flex;
+        justify-content: center;
+        padding-top: 5%;
+    }
+    input{
+        border-color: rgb(163, 16, 121);
+        border: 3px solid rgb(163, 16, 121);
+        border-collapse: collapse;
+        height: 26px;
+    }
+    textarea{
+        border-color: rgb(163, 16, 121);
+        border: 3px solid rgb(163, 16, 121);
+        border-collapse: collapse;
+    }
+    .button{
+        height: 26px; 
+        display: flex;
+        justify-content: center;
+        
+    }
+    .button1{
+        border: 3px solid rgb(163, 16, 121);
+        background-color: blue;
+    }
+    .button1:hover{
+        background-color: red;
+    }
+    .button2{
+        border: 3px solid rgb(163, 16, 121);
+        background-color: red;
+    }
+    .button2:hover{
+        background-color: rgb(21, 0, 255);
+    }
+    input:active{
+        background-color:#e3d0ff;
+    }
+    
+}
